@@ -2,31 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3292dc50-e4c3-4423-b83c-df355cb6bd9e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_14_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_solr_solr_solrj_6_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_noggit_noggit_0_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/it/list/DelNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/list/DelNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/it/list/Huiwenlianbiao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/list/Huiwenlianbiao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/it/list/RandNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/list/RandNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/it/list/TreeTolist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/it/list/TreeTolist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/util/RpcFramework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/dp/Fnaq.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/dp/Fnaq.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/dp/Path.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/dp/Path.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/list/DelNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/list/DelNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/list/DelNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/list/DelNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/list/Fanzhuan.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/list/Fanzhuan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/list/FanzhuanBufen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/list/FanzhuanBufen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/list/Huan.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/list/Huan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/list/Huiwenlianbiao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/list/Huiwenlianbiao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/list/InsertNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/list/InsertNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/list/Kfanzhuan.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/list/Kfanzhuan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/list/LeftAndRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/list/LeftAndRight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/list/MergeList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/list/MergeList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/list/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/list/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/list/Partion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/list/Partion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/list/PrintCommonPart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/list/PrintCommonPart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/list/RNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/list/RNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/list/RandNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/list/RandNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/list/RemoveNodeList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/list/RemoveNodeList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/list/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/list/SelectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/list/TNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/list/TNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/list/TreeTolist.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/list/TreeTolist.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/list/YueSeFuhuan.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/list/YueSeFuhuan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/stack/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/stack/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/stack/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/stack/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/stack/DogCatQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/stack/DogCatQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/stack/MaxRecSize.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/stack/MaxRecSize.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/stack/MaxWindow.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/stack/MaxWindow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/stack/Mystack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/stack/Mystack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/stack/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/stack/Pet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/stack/PetEnter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/stack/PetEnter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/stack/SortStackByStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/stack/SortStackByStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/stack/TwoStacksQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/stack/TwoStacksQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/string/CountString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/string/CountString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/string/Deformation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/string/Deformation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/string/IndexString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/string/IndexString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/string/RemoveKzeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/string/RemoveKzeros.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/string/ReplaceString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/string/ReplaceString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/tree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/tree/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/it/tree/SerailTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/it/tree/SerailTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/Sensitive$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/Sensitive$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/Sensitive$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/Sensitive$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/Sensitive.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/Sensitive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util.iml" beforeDir="false" afterPath="$PROJECT_DIR$/util.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,65 +69,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Sensitive.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/util/Sensitive.java">
+      <file leaf-file-name="RpcFramework.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/util/RpcFramework.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="176" column="16" lean-forward="true" selection-start-line="176" selection-start-column="16" selection-end-line="176" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeTolist.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/it/list/TreeTolist.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-182">
-              <caret line="24" column="53" lean-forward="true" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+            <state relative-caret-position="168">
+              <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
               <folding>
-                <element signature="e#382#389#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#2059#2089#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DelNum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/it/list/DelNum.java">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
-              <folding>
-                <element signature="e#275#281#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Huiwenlianbiao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/it/list/Huiwenlianbiao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
-              <folding>
-                <element signature="e#338#344#0" expanded="true" />
-                <element signature="e#733#739#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RandNode.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/it/list/RandNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="20" column="47" lean-forward="true" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
-              <folding>
-                <element signature="e#319#333#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="356">
+              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PATH_TO_GIT" value="/usr/local/bin/git/" />
@@ -117,6 +112,8 @@
         <option value="$PROJECT_DIR$/src/main/java/it/list/DelNum.java" />
         <option value="$PROJECT_DIR$/src/main/java/it/list/Huiwenlianbiao.java" />
         <option value="$PROJECT_DIR$/src/main/java/it/list/RandNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/util/RPC.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -162,39 +159,6 @@
               <item name="util" type="b2602c69:ProjectViewProjectNode" />
               <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="util" type="b2602c69:ProjectViewProjectNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="util" type="b2602c69:ProjectViewProjectNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="util" type="b2602c69:ProjectViewProjectNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="util" type="b2602c69:ProjectViewProjectNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="util" type="b2602c69:ProjectViewProjectNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -214,6 +178,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -296,12 +265,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565697552792</updated>
-      <workItem from="1565697554759" duration="291000" />
+      <workItem from="1565697554759" duration="1063000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="291000" />
+    <option name="totallyTimeSpent" value="1063000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="805" extended-state="0" />
@@ -309,7 +278,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Messages" order="13" visible="true" weight="0.40729928" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.40729928" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
@@ -318,7 +287,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.7123696" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.5789866" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.25985402" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.77372265" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="2" />
       <window_info auto_hide="true" content_ui="combo" id="Project" internal_type="SLIDING" order="0" type="SLIDING" weight="0.2746781" />
@@ -328,7 +297,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24962963" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.7511177" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.75036496" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Spring" order="12" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -341,6 +310,41 @@
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
       <window_info id="Web" order="6" side_tool="true" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7123696" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962963" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.38686132" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.40729928" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Problems" order="9" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.5789866" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.3018598" />
+      <window_info auto_hide="true" content_ui="combo" id="Project" internal_type="SLIDING" order="0" type="SLIDING" weight="0.2746781" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3297568" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.75036496" />
+      <window_info anchor="right" id="Bean Validation" order="8" weight="0.32962963" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -350,34 +354,10 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/util/Sensitive.java</url>
-          <line>178</line>
-          <properties />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="1" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/Sensitive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="176" column="16" lean-forward="true" selection-start-line="176" selection-start-column="16" selection-end-line="176" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/it/list/TreeTolist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-182">
-          <caret line="24" column="53" lean-forward="true" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
-          <folding>
-            <element signature="e#382#389#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/list/DelNum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -401,11 +381,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/it/list/RandNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
+        <state relative-caret-position="-1015">
           <caret line="20" column="47" lean-forward="true" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
           <folding>
             <element signature="e#319#333#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/list/TreeTolist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-182">
+          <caret line="24" column="53" lean-forward="true" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+          <folding>
+            <element signature="e#382#389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/Sensitive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/RpcFramework.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2059#2089#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
         </state>
       </provider>
     </entry>
