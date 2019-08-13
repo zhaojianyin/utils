@@ -17,7 +17,7 @@ public class Huiwenlianbiao {
 		if (head == null || head.next == null) {
 			return true;
 		}
-		Stack<Node> stack = new Stack<>();
+		Stack<Node> stack = new Stack<Node>();
 		Node node = head;
 		while (node != null) {
 			stack.push(node);
@@ -38,7 +38,7 @@ public class Huiwenlianbiao {
 			return true;
 		}
 		Node cur = head;
-		Stack<Node> stack = new Stack<>();
+		Stack<Node> stack = new Stack<Node>();
 		Node node = head.next;
 		while (head.next != null && head.next.next != null) {
 			node = node.next;

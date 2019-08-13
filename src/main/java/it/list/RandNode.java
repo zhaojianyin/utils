@@ -16,7 +16,7 @@ public class RandNode {
 
 	public static RNode copyList(RNode rNode) {
 		RNode cur = rNode;
-		Map<RNode, RNode> map = new HashMap<>();
+		Map<RNode, RNode> map = new HashMap<RNode, RNode>();
 		while (cur != null) {
 			map.put(cur, new RNode(cur.value));
 			cur = cur.next;

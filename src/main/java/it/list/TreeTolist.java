@@ -22,7 +22,7 @@ public class TreeTolist {
 	 * @return
 	 */
 	public static TNode TreeTolist1(TNode head) {
-		Queue<TNode> queue = new LinkedList<>();
+		Queue<TNode> queue = new LinkedList<TNode>();
 		queue = toqueue(head, queue);
 		head = queue.poll();
 		TNode pre = null;

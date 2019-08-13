@@ -14,7 +14,7 @@ import java.util.Stack;
 public class DelNum {
 
 	public static Node delnode(Node head, int num) {
-		Stack<Node> stack = new Stack<>();
+		Stack<Node> stack = new Stack<Node>();
 		while (head != null) {
 			if (num != head.value) {
 				stack.push(head);
