@@ -34,13 +34,15 @@ public class Solution398 {
 
 	public int pick(int target) {
 		Random r = new Random();
-		int c = 0;
+		int n = 0;
 		int index = 0;
 		for (int i = 0; i < nums.length; i++) {
 			if (nums[i] == target) {
-				c++;
-				//概率R
-				if (r.nextInt() % c == 0) {
+				//我们的目标对象中选取。
+				n++;
+				//当前正要读取第n个数据
+				if (r.nextInt() % n == 0) {
+					//我们以1/n的概率留下该数据
 					index = i;
 				}
 			}
@@ -49,6 +51,7 @@ public class Solution398 {
 	}
 
 	public static void main(String[] args) {
+		System.out.println(new Random().nextInt());
 		int[] nums = new int[] {1,2,3,3,3};
 		Solution398 obj = new Solution398(nums);
 		System.out.println(obj.pick(3));
