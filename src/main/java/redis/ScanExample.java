@@ -14,7 +14,7 @@ import util.JedisUtils;
 public class ScanExample {
 	public static void main(String[] args) {
 		// 添加 10w 条数据
-//		initData();
+		initData();
 		BasicIndexableFieldIdentifier();
 	}
 
